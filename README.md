@@ -12,9 +12,9 @@ We have used Java Netbeans IDE 8.2 for coding
 -Shows the total score, elapsed time, and remaining match
 -Clicking the X pop out confirmation box and asks'Are you sure you want to exit the game?'
 
-Class FindGame -> Main page
-Class GameBtns -> Randomly display picture
-Class imagehint -> Hint option
-Class imageThread -> Time to show hint
-Class StartDlg -> Select the difficulty level by pop-up window
-Class TimeThread -> Increased time from 1 to 300 seconds
+Class DgameGame -> Main page
+Class DgameBtns -> Randomly display picture
+Class Dgamehint -> Hint option
+Class Dgamewait -> Time to show hint
+Class DgameDlg -> Select the difficulty level by pop-up window
+Class Dgametime -> Increased time from 1 to 300 seconds

@@ -12,7 +12,7 @@ We have used Java Netbeans IDE 8.2 for coding
 -Shows the total score, elapsed time, and remaining match
 -Clicking the X pop out confirmation box and asks'Are you sure you want to exit the game?'
 
-Class DgameGame -> Main page
+Class Dgamemain -> Main page
 Class DgameBtns -> Randomly display picture
 Class Dgamehint -> Hint option
 Class Dgamewait -> Time to show hint
